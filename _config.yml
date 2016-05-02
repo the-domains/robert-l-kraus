@@ -1,6 +1,6 @@
 name: 'ROBERT L KRAUS '
 favicon: null
-layout_spectrum: 0.37626759544946253
+layout_spectrum: 0.49349
 typography_spectrum: 0.16857780097052455
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#09090b'
     - '#697a96'
     - '#2f2b2a'
-  brandStrength: 0.3096155778039247
+  brandStrength: 0.5
   lightness: 0.14934252528473735
   saturation: 0.6451439301017672
   rhythmicContrast: 0.9441644544713199
